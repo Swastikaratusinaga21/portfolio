@@ -1,0 +1,81 @@
+body {
+  background-color: #ffeece;
+}
+
+.content {
+  padding: 20px 20px;
+}
+
+/* image sosial media pada menu utama */
+
+.social-media-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-icons .col {
+  background-color: rgba(255, 162, 0, 0.668);
+  padding: 5px;
+  margin: 15px 5px;
+  border-radius: 20%;
+}
+
+.social-media-icons img {
+  width: 30px;
+  height: auto;
+}
+
+section {
+  padding-top: 40px;
+}
+/* 
+.col-md-4 {
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 20px; /* Jarak dari bagian atas viewport
+} */
+
+/* _________________________________________________
+<div class="content">
+      <div class="d-flex flex-row mb-2">
+        <div class="p-2">
+          <div class="card" style="width: 300px; height: 500px; padding: 20px 0">
+            <img src="img/me.jpg" class="card-img-top img-thumbnail rounded-circle mx-auto" alt="Swastika Ratu Sinaga" style="width: 150px" />
+            <div class="card-body text-center">
+              <h5 class="card-title">Swastika Ratu Sinaga</h5>
+              <p>
+                Web Developer | <br />
+                Photographer Assistant
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="p-2">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident eaque expedita quis, fuga omnis voluptatibus veniam, quidem recusandae reprehenderit ipsa nulla corrupti velit non amet exercitationem officiis itaque
+                perferendis rem corporis! Doloremque a alias assumenda iure consectetur architecto aperiam adipisci, quaerat velit earum perspiciatis ut quos odit cum recusandae officiis nisi blanditiis minus laboriosam totam quis, ad
+                cumque? Dolorem vero eum hic, tenetur totam, nemo enim tempora nesciunt praesentium fugiat neque, odit optio iste est molestias! Enim debitis iusto commodi ducimus quibusdam fugit minima eum provident id. Recusandae nisi,
+                excepturi cumque, beatae culpa rem nostrum magni eius, dignissimos veniam facere.
+              </p>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam atque natus possimus minima in distinctio accusamus nostrum cum hic, libero earum sequi adipisci eius consequatur laudantium necessitatibus iure. Dicta possimus
+                corporis laboriosam voluptatem minus inventore ipsam itaque optio nam. Mollitia similique incidunt quod, quis, placeat laboriosam est ex voluptatum iste deserunt consequuntur aut expedita! Dignissimos eveniet odio tenetur
+                itaque sint, necessitatibus at iure ab atque, placeat veniam excepturi! Earum neque iure non accusantium minus ipsam ab animi qui! Dicta, quaerat. Asperiores dolor modi dignissimos fugit vitae iste commodi recusandae magni.
+                Dolor tempore alias voluptas maiores ab nihil saepe dolores beatae, cumque, vero voluptatem perferendis harum eum dolore illum quaerat perspiciatis minus quia tempora rem! Aliquid, ea porro iste explicabo voluptates adipisci
+                aperiam esse harum repellendus asperiores sint numquam assumenda cupiditate veritatis saepe sit ipsum libero veniam voluptate dolores dicta! Quidem eligendi quod molestiae laborum vel. Obcaecati dicta iste sed, velit harum
+                consectetur, commodi, eligendi aut voluptas deserunt ullam. Laboriosam, temporibus ipsa consequatur vero nostrum maxime quibusdam aperiam ad itaque veritatis molestias! Placeat excepturi perferendis laboriosam tenetur animi
+                corrupti dolorum eum magnam impedit temporibus itaque ad iure repellendus culpa praesentium obcaecati, totam necessitatibus, vitae, exercitationem quisquam? Est saepe, dolor at sapiente, tempora illo omnis, deleniti cumque
+                error repellendus nihil! Provident architecto fuga a aliquam et consequatur labore suscipit ipsam nulla, quam aperiam, sed deleniti officia pariatur itaque hic ex minima veniam illo mollitia debitis aliquid rerum. Quos
+                tenetur nulla eum aliquam, iusto consectetur eaque blanditiis, consequatur qui numquam atque? Mollitia tempora nesciunt consectetur architecto ad earum voluptatem quibusdam velit rerum temporibus sequi, odit deleniti sint
+                veritatis aut quam officiis illo molestiae nobis! Rerum nulla molestias sunt, rem aspernatur officia quam odio explicabo atque laborum quae repellat quia totam alias maxime veniam doloremque et nisi quibusdam nesciunt
+                dolores dolor. Odit, id autem.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> */
